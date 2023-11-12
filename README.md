@@ -1,6 +1,6 @@
 # Praktikum-Big-Data-Analytics
-1. Pertemuan 1: Overview Python
-2. Pertemuan 2: Input Output
+Pertemuan 1: Overview Python
+Pertemuan 2: Input Output
 3. Pertemuan 3: Eksplorasi Data
 4. Pertemuan 4: Collecting Data
 5. Pertemuan 5: Collecting Data (continued)
