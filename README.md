@@ -1,6 +1,7 @@
 # Praktikum-Big-Data-Analytics
+![utdi-3A](https://github.com/zargiteddy/Praktikum-Big-Data-Analytics/assets/72479466/4fb5610d-d038-48d9-9172-b150be8e6af5)
 #### Mata kuliah Praktikum Big Data Analytics
-#### Universitas Teknologi Digital Indonesia ![UTDI-logo](https://github.com/zargiteddy/Praktikum-Big-Data-Analytics/assets/72479466/98defe0b-786c-4610-ac84-f387eb0cddb4)
+#### Universitas Teknologi Digital Indonesia
 #### Informatika
 #### Semester 6, tahun ajaran 2021/2022
 
