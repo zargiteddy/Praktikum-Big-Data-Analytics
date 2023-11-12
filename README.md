@@ -1,8 +1,8 @@
 ![utdi-3A](https://github.com/zargiteddy/Praktikum-Big-Data-Analytics/assets/72479466/4fb5610d-d038-48d9-9172-b150be8e6af5)
 # Praktikum Big Data Analytics
-**Universitas Teknologi Digital**
-**Prodi Informatika**
-**Semester 6, tahun ajaran 2021/2022**
+- **Universitas Teknologi Digital**
+- **Prodi Informatika**
+- **Semester 6, tahun ajaran 2021/2022**
 
 List judul modul setiap pertemuan:
 1. Overview Python
